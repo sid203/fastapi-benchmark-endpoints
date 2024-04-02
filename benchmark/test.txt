@@ -1,0 +1,60 @@
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        uvicorn
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /test
+Document Length:        4 bytes
+
+Concurrency Level:      50
+Time taken for tests:   52.431 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      128000 bytes
+Total body sent:        154000
+HTML transferred:       4000 bytes
+Requests per second:    19.07 [#/sec] (mean)
+Time per request:       2621.527 [ms] (mean)
+Time per request:       52.431 [ms] (mean, across all concurrent requests)
+Transfer rate:          2.38 [Kbytes/sec] received
+                        2.87 kb/s sent
+                        5.25 kb/s total
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.3      0       2
+Processing:  2015 2497 769.8   2073    4182
+Waiting:     2013 2497 769.8   2073    4178
+Total:       2015 2497 769.8   2073    4182
+
+Percentage of the requests served within a certain time (ms)
+  50%   2073
+  66%   2092
+  75%   2146
+  80%   3815
+  90%   3861
+  95%   3869
+  98%   3968
+  99%   4030
+ 100%   4182 (longest request)

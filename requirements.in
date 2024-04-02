@@ -1,0 +1,9 @@
+envyaml>=1.10.211231
+fastapi>=0.104.1
+fastapi-restful>=0.5.0
+pydantic>=2.4.2
+uvicorn[standard]<=0.24.0
+gunicorn>=21.2.0
+httpx>=0.23.0
+python-multipart>=0.0.6
+urllib3<=1.26.6
